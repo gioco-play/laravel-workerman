@@ -18,7 +18,7 @@ composer require armandgarot/laravel-workerman
 You can publish the config-file with:
 
 ```bash
-php artisan vendor:publish --provider="ArmandGarot\LaravelWorkerman\LaravelWorkermanServiceProvider" --tag="config"
+php artisan vendor:publish --provider="GiocoPlus\LaravelWorkerman\LaravelWorkermanServiceProvider" --tag="config"
 ```
 
 ## Commands
