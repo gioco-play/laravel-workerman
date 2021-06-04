@@ -4,7 +4,7 @@ namespace GiocoPlus\LaravelWorkerman\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Console\ConfirmableTrait;
-use ArmandGarot\LaravelWorkerman\LaravelWorkermanServer;
+use GiocoPlus\LaravelWorkerman\LaravelWorkermanServer;
 
 class WorkermanCommand extends Command
 {
