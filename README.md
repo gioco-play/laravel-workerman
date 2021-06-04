@@ -12,7 +12,7 @@ A Larvel server side alternative implementation of [socket.io](https://github.co
 You can install this package via composer using this command:
 
 ```bash
-composer require armandgarot/laravel-workerman
+composer require gioco-plus/laravel-workerman
 ```
 
 You can publish the config-file with:
